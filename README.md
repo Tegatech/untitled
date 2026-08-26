@@ -6,6 +6,12 @@ The name draws from Nigerian slang, **jaga jaga**, meaning disorder or chaos, co
 
 This repository currently contains the earliest version of the JAGAVILLE event website and will now be used as the working home for the evolving JAGAVILLE identity and site.
 
+## Origin of the site
+
+The earliest site in this repository originally lived under **iluvsluts.com**. That old version is being preserved as part of the visual and cultural history of JAGAVILLE rather than treated as disposable legacy code.
+
+Its distorted monochrome, bootleg-internet and underground visual language remains useful reference material for the future JAGAVILLE identity.
+
 ## Core identity
 
 - **Movement:** JAGAVILLE
@@ -36,3 +42,5 @@ The identity must be flexible enough to support:
 The original static site remains in place while the identity is being defined. Existing files include the original HTML/CSS and visual assets from the first JAGAVILLE site concept.
 
 Brand direction and working notes are documented in `docs/BRAND_FOUNDATION.md`.
+
+Working and final visual assets should be organised under `assets/` using the structure documented in `assets/README.md`.
